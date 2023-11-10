@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "category_name": "Conferences and Seminars",
+      "category_price": 1000,
+      "category_description": "Conferences and seminars are vital events in the business world. They provide a platform for professionals to gather, exchange knowledge, and network. These events bring together experts, thought leaders, and enthusiasts from various industries to discuss current trends, share insights, and foster collaboration. Conferences often feature keynote speakers, breakout sessions, and panel discussions, offering attendees a wealth of information. Seminars, on the other hand, focus on in-depth learning and skill development through workshops and presentations. Whether you're looking to stay updated on industry advancements or expand your professional network, conferences and seminars are essential opportunities.",
+      "category_image": "https://i.ibb.co/MPPt916/alexandre-pellaes-6v-Ajp0psc-X0-unsplash.jpg"
+    },
+    {
+      "id": 2,
+      "category_name": "Trade Shows and Expos",
+      "category_price": 1500,
+      "category_description": "Trade shows and expos are exhibitions that showcase products, services, and innovations from various companies and industries. These events are a prime opportunity for businesses to connect with potential customers, partners, and investors. Attendees can explore booths, engage with exhibitors, and gain insights into the latest market trends. Trade shows often feature product demonstrations, product launches, and interactive displays. Expos, on the other hand, focus on broader industry themes and innovations. Whether you're a business looking to promote your offerings or an individual interested in discovering the latest products and technologies, trade shows and expos are a valuable experience.",
+      "category_image": "https://i.ibb.co/0mmS1fr/tim-meyer-As-T9-Dt11-Fk-A-unsplash.jpg"
+    },
+    {
+      "id": 3,
+      "category_name": "Team Building Workshops",
+      "category_price": 800,
+      "category_description": "Team building workshops are essential for fostering a positive and collaborative work environment. These workshops aim to improve communication, trust, and teamwork among team members. Through various activities, exercises, and challenges, participants develop problem-solving skills and learn to work cohesively. Team building workshops can take place in various settings, from outdoor adventures to indoor seminars. They are not only enjoyable but also contribute to increased productivity and employee satisfaction. Investing in team building is investing in the long-term success of your organization.",
+      "category_image": "https://i.ibb.co/N7dtCVD/austin-distel-rxp-Th-Owu-Vg-E-unsplash.jpg"
+    },
+    {
+      "id": 4,
+      "category_name": "Product Launches",
+      "category_price": 1200,
+      "category_description": "Product launches are pivotal moments in a business's journey. They mark the introduction of a new product or service to the market and are essential for creating buzz and generating interest. A successful product launch involves careful planning, marketing strategies, and a captivating presentation. It's an opportunity to showcase your innovation and value to potential customers. Product launches can take various forms, from exclusive events to online unveilings. Whether you're a startup unveiling your first product or an established company expanding your portfolio, a well-executed product launch can set the stage for success.",
+      "category_image": "https://i.ibb.co/7p8rdt1/teemu-paananen-bzdhc5b3-Bxs-unsplash.jpg"
+    },
+    {
+      "id": 5,
+      "category_name": "Corporate Meetings",
+      "category_price": 500,
+      "category_description": "Corporate meetings are an integral part of business operations. They serve as a platform for decision-making, strategy development, and communication within an organization. Corporate meetings can range from small team discussions to large-scale conferences involving stakeholders from different locations. Effective meetings are characterized by clear agendas, active participation, and actionable outcomes. They play a crucial role in aligning teams, setting goals, and ensuring everyone is on the same page. Whether you're a manager looking to coordinate projects or an executive making strategic decisions, corporate meetings are a cornerstone of organizational success.",
+      "category_image": "https://i.ibb.co/Cnx9hZb/group-diverse-people-having-business-meeting.jpg"
+    },
+    {
+      "id": 6,
+      "category_name": "Award Ceremonies",
+      "category_price": 750,
+      "category_description": "Award ceremonies are special occasions dedicated to recognizing and celebrating outstanding achievements. They honor individuals, organizations, or teams that have excelled in their respective fields. Award ceremonies bring together a diverse audience, including nominees, supporters, and industry leaders. They often feature glamorous red carpet events, heartfelt speeches, and prestigious awards. These ceremonies not only acknowledge excellence but also inspire others to strive for greatness. Whether you're attending an award ceremony as a nominee or a guest, it's an opportunity to celebrate success and be part of a memorable and inspiring event.",
+      "category_image": "https://i.ibb.co/SyWRdVY/wan-san-yip-ID1y-Wa1-Wpx0-unsplash.jpg"
+    }
+  ]
+  

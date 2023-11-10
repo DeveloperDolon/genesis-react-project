@@ -1,0 +1,46 @@
+[
+    {
+      "item_id": 1,
+      "item_name": "Venue Selection and Booking",
+      "item_description": "Helping clients find the perfect venue for their event, whether it's a conference center, hotel, unique outdoor location, or something else.",
+      "item_image": "https://i.ibb.co/K508x9K/vanue-booking.png"
+    },
+    {
+      "item_id": 2,
+      "item_name": "Event Planning and Coordination",
+      "item_description": "Comprehensive event planning services, including theme development, budget management, and logistics planning.",
+      "item_image": "https://i.ibb.co/KGJW7Mz/event-planning.png"
+    },
+    {
+      "item_id": 3,
+      "item_name": "Catering and Dining Services",
+      "item_description": "Offering a variety of catering options, from gourmet meals to themed buffets, and managing all aspects of food and beverage service.",
+      "item_image": "https://i.ibb.co/yhKtnBh/robert-mathews-x-Xa-Lfz6-V9r-Q-unsplash.jpg"
+    },
+    {
+      "item_id": 4,
+      "item_name": "Audio-Visual and Technology Support",
+      "item_description": "Providing AV equipment, lighting, sound systems, and technical support for presentations and entertainment.",
+      "item_image": "https://i.ibb.co/W5M9CPM/audio-tech-support.png"
+    },
+    {
+      "item_id": 5,
+      "item_name": "Event Decor and Design",
+      "item_description": "Creating captivating event design concepts, including decorations, floral arrangements, and table settings that align with the event theme.",
+      "item_image": "https://i.ibb.co/C8jwHYr/decoration.png"
+    },
+    {
+      "item_id": 6,
+      "item_name": "Registration and RSVP Management",
+      "item_description": "Offering online registration services, managing attendee lists, and handling RSVPs.",
+      "item_image": "https://i.ibb.co/56B6qpr/registration-management.png"
+    },
+    {
+      "item_id": 7,
+      "item_name": "Transportation and Logistics",
+      "item_description": "Coordinating transportation for attendees, whether it's shuttle services, private cars, or airport transfers.",
+      "item_image": "https://i.ibb.co/fSSNdHS/transportation.png"
+    }
+  ]
+  
+

@@ -1,0 +1,25 @@
+
+button#banner-button {
+    background: #00a8ff;
+    /* background-color: red; */
+    transition: .5s ease all !important;
+    padding: 15px 30px;
+    border-radius: 10px;
+    color: white;
+}
+
+button#banner-button:hover {
+    background: rgb(71, 68, 68);
+    /* background-color: black; */
+    letter-spacing: 10px;
+}
+
+#card-btn{  
+    background-color: #00a8ff;
+    transition: .5s ease all !important;
+}
+
+#card-btn:hover {
+    background-color: #dcdde1;
+    letter-spacing: 5px;
+}

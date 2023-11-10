@@ -1,0 +1,8 @@
+#event-item {
+    transition: .5s ease all;
+}
+
+#event-item:hover {
+    box-shadow: 0px 0px 20px 5px #f3f3f3;
+    transform: scale(1.05);
+}
